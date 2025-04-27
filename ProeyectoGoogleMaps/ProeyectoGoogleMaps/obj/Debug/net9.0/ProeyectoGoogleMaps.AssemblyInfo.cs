@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ProeyectoGoogleMaps")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+634cec5201a3ef3b6afed3925a4f60bd88ea84f1")]
 [assembly: System.Reflection.AssemblyProductAttribute("ProeyectoGoogleMaps")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ProeyectoGoogleMaps")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

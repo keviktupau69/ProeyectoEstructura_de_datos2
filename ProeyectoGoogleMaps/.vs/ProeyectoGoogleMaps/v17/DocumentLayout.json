@@ -1,9 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\HP\\Escritorio\\C#\\Aspe .net core MVC\\ProeyectoGoogleMaps\\",
+  "WorkspaceRootPath": "C:\\Users\\HP\\OneDrive\\Escritorio\\Github\\ProeyectoEstructura_de_datos2\\ProeyectoGoogleMaps\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1F9AF2EF-DB31-4BA0-BF7B-2D0308A19BBF}|ProeyectoGoogleMaps\\ProeyectoGoogleMaps.csproj|c:\\users\\hp\\escritorio\\c#\\aspe .net core mvc\\proeyectogooglemaps\\proeyectogooglemaps\\wwwroot\\js\\mapa.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "AbsoluteMoniker": "D:0:0:{1F9AF2EF-DB31-4BA0-BF7B-2D0308A19BBF}|ProeyectoGoogleMaps\\ProeyectoGoogleMaps.csproj|c:\\users\\hp\\onedrive\\escritorio\\github\\proeyectoestructura_de_datos2\\proeyectogooglemaps\\proeyectogooglemaps\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1F9AF2EF-DB31-4BA0-BF7B-2D0308A19BBF}|ProeyectoGoogleMaps\\ProeyectoGoogleMaps.csproj|solutionrelative:proeyectogooglemaps\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F9AF2EF-DB31-4BA0-BF7B-2D0308A19BBF}|ProeyectoGoogleMaps\\ProeyectoGoogleMaps.csproj|c:\\users\\hp\\onedrive\\escritorio\\github\\proeyectoestructura_de_datos2\\proeyectogooglemaps\\proeyectogooglemaps\\wwwroot\\js\\mapa.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{1F9AF2EF-DB31-4BA0-BF7B-2D0308A19BBF}|ProeyectoGoogleMaps\\ProeyectoGoogleMaps.csproj|solutionrelative:proeyectogooglemaps\\wwwroot\\js\\mapa.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     }
   ],
@@ -14,8 +18,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 116,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Escritorio\\Github\\ProeyectoEstructura_de_datos2\\ProeyectoGoogleMaps\\ProeyectoGoogleMaps\\appsettings.json",
+              "RelativeDocumentMoniker": "ProeyectoGoogleMaps\\appsettings.json",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Escritorio\\Github\\ProeyectoEstructura_de_datos2\\ProeyectoGoogleMaps\\ProeyectoGoogleMaps\\appsettings.json",
+              "RelativeToolTip": "ProeyectoGoogleMaps\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-27T16:44:01.634Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
@@ -38,13 +55,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Mapa.js",
-              "DocumentMoniker": "C:\\Users\\HP\\Escritorio\\C#\\Aspe .net core MVC\\ProeyectoGoogleMaps\\ProeyectoGoogleMaps\\wwwroot\\js\\Mapa.js",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Escritorio\\Github\\ProeyectoEstructura_de_datos2\\ProeyectoGoogleMaps\\ProeyectoGoogleMaps\\wwwroot\\js\\Mapa.js",
               "RelativeDocumentMoniker": "ProeyectoGoogleMaps\\wwwroot\\js\\Mapa.js",
-              "ToolTip": "C:\\Users\\HP\\Escritorio\\C#\\Aspe .net core MVC\\ProeyectoGoogleMaps\\ProeyectoGoogleMaps\\wwwroot\\js\\Mapa.js",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Escritorio\\Github\\ProeyectoEstructura_de_datos2\\ProeyectoGoogleMaps\\ProeyectoGoogleMaps\\wwwroot\\js\\Mapa.js",
               "RelativeToolTip": "ProeyectoGoogleMaps\\wwwroot\\js\\Mapa.js",
-              "ViewState": "AgIAAFIAAAAAAAAAAAAmwNoAAAA+AAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAmwNoAAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
               "WhenOpened": "2025-04-26T20:55:31.646Z",
               "EditorCaption": ""
